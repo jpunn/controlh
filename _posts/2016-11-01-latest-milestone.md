@@ -1,7 +1,7 @@
 ---
-title: We've raised $2000!
-author_staff_member: wooly-mcbaa
+title:  room temp & Humidity
+author_staff_member: controlH
 date: 2016-11-01
-featured_image: https://unsplash.it/570/400?image=1080
+featured_image: https://unsplash.com/photos/570/400? mAwE-fqgDXc
 ---
-Thank you do everyone who has made contributions. This money is going towards reaching sheep in paddocks far and wide. The revolution has begun.
+thermostat integration & Humidity monitoring & control.
