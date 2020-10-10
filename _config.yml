@@ -52,8 +52,8 @@ defaults:
     values:
       layout: "default"
 
-donation_embed: '<script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/give-sheep-the-vote?hide_donation_meter=true" height="685px" width="100%" style="max-width:425px; min-width:310px" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no"></iframe>'
-newsletter_action: "mailto:controlh2134@gmail.com"
+donation_embed: '<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd7a3QIuY0ImYT6HFwU6cgehpiUSY1pdnMHXr3Fg2e7J_nGGw/viewform?embedded=true" height="685px" width="100%" style="max-width:425px; min-width:310px" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="yes"></iframe>'
+newsletter_action: '<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd7a3QIuY0ImYT6HFwU6cgehpiUSY1pdnMHXr3Fg2e7J_nGGw/viewform?embedded=true" width="640" height="975" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>'
 
 plugins:
   - jekyll-sitemap

@@ -1,15 +1,16 @@
 ---
 layout: default
-title: Control Your Home
+title: SMart building
 ---
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <header>
 	<div class="container">
 		<div class="column">
 			<div>
 				<h1 class="editable">Make your building smart</h1>
-				<p class="editable"> Smart building is more than some devices, but making it work all together effectively.</p>
+				<p class="editable">Smart building is more than some devices, but making it work all together effectively.</p>
 				<div class="button">
-					<a href="https://demo.home-assistant.io/#/lovelace/0">Demo</a>
+					<a href="#donate">Demo</a>
 				</div>
 			</div>
 		</div>
@@ -68,14 +69,11 @@ title: Control Your Home
 		</div>
 	</blockquote>
 </div>
-<div class="darker">
-	<div class="container">
-		<h2 class="editable"> let us know </h2>
-		<p class="editable" style="text-align: center;">We like to know what you think </p>
-		<form action="{{ site.newsletter_action }}" method="post">
-			<input type="text" name="EMAIL" placeholder="comments,queries,contact details,email">
-			<input type="submit" value="Send"/>
-		</form>
+
+<div class="container" id="donate">
+	<h2 class="editable">Make a donation</h2>
+	<div class="donate">
+		{{ site.donation_embed }}
 	</div>
 </div>
 
