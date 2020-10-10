@@ -1,7 +1,7 @@
 ---
 title:  room temp & Humidity
 author_staff_member: controlH
-date: 2016-11-01
+date: 2020-10-01
 featured_image: /images/thermo.jpg
 
 ---

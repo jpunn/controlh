@@ -1,4 +1,4 @@
 ---
-name: Wooly McBaa
-image: /images/wooly.jpg
+name: controlh
+image: /images/robo1.jpg
 ---
