@@ -8,7 +8,7 @@ google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with example content for a not-for-profit organisation.
+description: home assistant installation assistant .
 author:
   name:
   email:
@@ -53,7 +53,7 @@ defaults:
       layout: "default"
 
 donation_embed: '<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd7a3QIuY0ImYT6HFwU6cgehpiUSY1pdnMHXr3Fg2e7J_nGGw/viewform?embedded=true" height="685px" width="100%" style="max-width:425px; min-width:310px" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="yes"></iframe>'
-newsletter_action: '<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd7a3QIuY0ImYT6HFwU6cgehpiUSY1pdnMHXr3Fg2e7J_nGGw/viewform?embedded=true" width="640" height="975" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>'
+newsletter_action: '<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd7a3QIuY0ImYT6HFwU6cgehpiUSY1pdnMHXr3Fg2e7J_nGGw/viewform?embedded=true" width="685" height="975" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>'
 
 plugins:
   - jekyll-sitemap
